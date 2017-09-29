@@ -12,22 +12,13 @@ ul li {
   transform-style: preserve-3d;
   border: 1px solid #000;
   perspective: 800px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   margin: 0 auto;
   transform: translateY(100%);
-  align-content: center;
 }
 .middle ul {
   position: relative;
   height: 185px;
   width: 2000px;
-  white-space: nowrap;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
 }
 .middle ul li {
   width: 329px;
