@@ -1,29 +1,8 @@
-# figure
+# css3_Carousel-figure
 
-## Project setup
-```
-npm install
-```
+纯css3码的3d轮播图。
+![image](https://github.com/suedar/css3_Carousel-figure/raw/master/show.gif)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+承蒙大家喜欢，决定把它开发成组件，原生代码在native_code分支上
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+喜欢可以给我一个星星~
