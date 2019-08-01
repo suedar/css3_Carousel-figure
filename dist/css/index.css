@@ -70,9 +70,6 @@ ul li {
     z-index: 1;
     transform: translateX(-32.9px) scale(0.8);
   }
-  76% {
-    opacity: 0;
-  }
   77%,
   100% {
     opacity: 0;
